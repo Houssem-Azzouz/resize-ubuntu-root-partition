@@ -82,3 +82,5 @@ sudo pvcreate /dev/sda4
 ```
 df -h
 ```
+
+source: [Increasing the size of a root partition on a Linux VM](https://www.opentechguides.com/how-to/article/linux/172/vm-extend-root.html)
